@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">16 y/o from Argentina learning full-stack web development who loves coding</h3>
+<h3 align="center">17 y/o from Argentina learning full-stack web development who loves coding</h3>
 
 - 🔭 I’m currently working on **A restaurant page using webpack**
 
