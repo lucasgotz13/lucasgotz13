@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">18 y/o from Argentina learning full-stack web development who loves coding</h3>
 
-- 🔭 I’m currently working on **A portfolio page**
+- 🔭 I’m currently working on **the back-end of an E-Commerce App**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Back-end development**
 
 - 📫 How to reach me **lucasgotz13@gmail.com**
 
