@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://dev.to/lucasgotz13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lucasgotz13" height="30" width="40" /></a>
 <a href="https://twitter.com/fideoz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fideoz_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lucas gotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas gotz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-gotz-baliner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas gotz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
