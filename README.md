@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">20 y/o from Argentina learning full-stack web development</h3>
 
 - 📫 How to reach me **lucasgotz13@gmail.com**
 
